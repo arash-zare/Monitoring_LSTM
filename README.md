@@ -1,3 +1,6 @@
+### 📈 System Flowchart: SARIMA-EE-LSTM with Fuzzy Logic for Real-Time Anomaly Detection
+
+```mermaid
 flowchart TD
 
 A[Start: Fetch Real-Time Metrics from VictoriaMetrics] --> B[Preprocessing: Normalize & Create Sequence]
